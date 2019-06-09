@@ -1,0 +1,12 @@
+{
+    "name": "ddt134/toolkit",
+    "description": "工具函数",
+    "authors": [
+        {
+            "name": "ddt134",
+            "email": "561180616@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
